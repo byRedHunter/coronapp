@@ -12,3 +12,9 @@
 <a href='https://byredhunter.github.io/coronapp/'>View Demo</a>
 <br />
 <img src='https://repository-images.githubusercontent.com/432837267/ddda73f6-d354-4980-9cc2-2e9c0c8ddbb9' alt='Demo Image'>
+
+## Créditos
+
+Encuentra más proyectos asombrosos en [/Proyectos](https://leonidasesteban.com/proyectos)
+
+Diseñado con ♥️ en leonidasesteban.com
